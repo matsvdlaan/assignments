@@ -9,6 +9,6 @@ here are the assignments
 
 [assignment 4](https://github.com/matsvdlaan/assignments/blob/master/Graded_assignment_2.ipynb)
 
-[final assignment r](https://github.com/matsvdlaan/assignments/blob/master/exam_june_7_2018.ipynb)
+[final assignment python](https://github.com/matsvdlaan/assignments/blob/master/exam_june_7_2018.ipynb)
 
-[final assignment python](https://github.com/matsvdlaan/assignments/blob/master/Exam_student.ipynb)
+[final assignment r](https://github.com/matsvdlaan/assignments/blob/master/Exam_student.ipynb)

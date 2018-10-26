@@ -12,3 +12,5 @@ here are the assignments
 [final assignment python](https://github.com/matsvdlaan/assignments/blob/master/exam_june_7_2018.ipynb)
 
 [final assignment r](https://github.com/matsvdlaan/assignments/blob/master/Exam_student.ipynb)
+
+[resit_oct_26 assignment r](https://github.com/matsvdlaan/assignments/blob/master/Resit_2_student.ipynb)
